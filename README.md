@@ -3,7 +3,7 @@
 A full-stack real-time chat application with user authentication, contact management, and live messaging using **React**, **.NET APIs**, **SignalR**, and **MongoDB**.
 
 > 📚️ **Study Project** — This application was built for learning purposes  
-> 🚧 **Work in Progress** - This project is **still under development**
+> 🚧 **Work in Progress** — This project is **still under development**
 
 ---
 
@@ -46,8 +46,8 @@ A full-stack real-time chat application with user authentication, contact manage
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/chat-app.git
-cd chat-app
+git clone https://github.com/josue1321/ChatApp.git
+cd ChatApp
 ```
 ### 2. Setup the Frontend
 Change the .env file variable values
